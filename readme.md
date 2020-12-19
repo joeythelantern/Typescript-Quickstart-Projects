@@ -5,4 +5,5 @@
 This repository is intended as a basic boilerplate with the following features:
 
 -   A Typescript enabled RESTFUL API
--   A Similar API with a sample MONGODB connection
+-   An API with a sample MONGODB connection
+-   An API with a sample MYSQL connection
