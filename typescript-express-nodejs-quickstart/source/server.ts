@@ -17,8 +17,7 @@ router.use((req, res, next) => {
         /** Log the res */
         logging.info(`METHOD: [${req.method}] - URL: [${req.url}] - STATUS: [${res.statusCode}] - IP: [${req.socket.remoteAddress}]`, NAMESPACE);
     })
-
-    next();
+    
     next();
 });
 
