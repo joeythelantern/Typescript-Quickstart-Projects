@@ -21,8 +21,6 @@ Periodic updates may happen to this repo to make small bug fixes or improvements
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
 Install the dependencies and start the server.  When you clonse the respository, cd into it and cd into one of the directories to start.  Whichever one you pick is where you will run the following commands below.  <project_directory> is the directory you've chosen.
 
 ```sh
