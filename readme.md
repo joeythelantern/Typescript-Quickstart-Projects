@@ -17,6 +17,7 @@ Hey everyone! This repository is a 3 in 1 boilerplate that gives you some basic 
 Periodic updates may happen to this repo to make small bug fixes or improvements.  Feel free to fork this repository and code away.
 
 # Updates / Bug Fixes
+* 01/23/2021 - Adding MIT Licesnse 
 * 01/16/2020 - Fixing logging & logging the end of the request properly
 
 ### Installation
