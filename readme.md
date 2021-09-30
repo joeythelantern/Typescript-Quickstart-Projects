@@ -29,8 +29,6 @@ $ cd <project_directory>
 $ npm install
 ```
 
-### Development
-
 License
 ----
 MIT
