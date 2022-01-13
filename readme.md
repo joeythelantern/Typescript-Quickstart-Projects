@@ -9,13 +9,13 @@
 
 Hey everyone! This repository is a 3 in 1 boilerplate that gives you some basic examples of creating a RESTful API in NodeJS, Express, Typescript and an optional database interaction with either MySQL or Mongo.  This repository contains 3 folders.  Here is a breif description of each, along with a link to a youtube video that will help you code it out yourself:
 
-  - typescript-express-nodejs-quickstart
+  - typescript-express-nodejs-quickstart ![N|Solid](https://img.shields.io/youtube/views/vyz47fUXcxU?style=social.svg)
     - A basic boilerplate wwith a sample route and controller.
     - [https://youtu.be/vyz47fUXcxU](https://youtu.be/vyz47fUXcxU)
-  - typescript-mongoose-quickstart
+  - typescript-mongoose-quickstart ![N|Solid](https://img.shields.io/youtube/views/lNqaQ0wEeAo?style=social.svg)
     - The same boilerplate with a sample MongoDB connection.
     - [https://youtu.be/lNqaQ0wEeAo](https://youtu.be/lNqaQ0wEeAo)
-  - typescript-mysql-quickstart
+  - typescript-mysql-quickstart ![N|Solid](https://img.shields.io/youtube/views/eTRSl1As83A?style=social.svg)
     - Similar to the Mongo project, but with a custom mysql promise adapter.
     - [https://youtu.be/eTRSl1As83A](https://youtu.be/eTRSl1As83A)
 
