@@ -2,10 +2,6 @@
 
 ![N|Solid](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s200-k-no-rp-mo)
 
-[![GitHub stars](https://img.shields.io/github/stars/tomanagle/Mongoose-TypeScript-example.svg)](https://github.com/joeythelantern/Typescript-Quickstart-Projects/stargazers)
-[![GitHub license](https://img.shields.io/github/license/tomanagle/Mongoose-TypeScript-example.svg)](https://github.com/joeythelantern/Typescript-Quickstart-Projects/blob/master/LICENCE)
-[![GitHub forks](https://img.shields.io/github/forks/tomanagle/Mongoose-TypeScript-example.svg)](https://github.com/joeythelantern/Typescript-Quickstart-Projects/network)
-
 Hey everyone! This repository is a 3 in 1 boilerplate that gives you some basic examples of creating a RESTful API in NodeJS, Express, Typescript and an optional database interaction with either MySQL or Mongo.  This repository contains 3 folders.  Here is a breif description of each, along with a link to a youtube video that will help you code it out yourself:
 
   - typescript-express-nodejs-quickstart
