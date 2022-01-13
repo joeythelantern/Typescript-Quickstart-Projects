@@ -5,6 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/joeythelantern/Typescript-Quickstart-Projects.svg)](https://github.com/joeythelantern/Typescript-Quickstart-Projects/stargazers)
 [![GitHub license](https://img.shields.io/github/license/joeythelantern/Typescript-Quickstart-Projects.svg)](https://github.com/joeythelantern/Typescript-Quickstart-Projects/blob/master/LICENCE)
 [![GitHub forks](https://img.shields.io/github/forks/joeythelantern/Typescript-Quickstart-Projects.svg)](https://github.com/joeythelantern/Typescript-Quickstart-Projects/network)
+[![Youtube_Channel_Views](https://img.shields.io/youtube/channel/views/UCmG1UbEI0iFE1tAw2SyvvXg?label=Channel%20Views&style=social.svg)](https://img.shields.io/youtube/channel/views/UCmG1UbEI0iFE1tAw2SyvvXg?label=Channel%20Views&style=social)
 
 Hey everyone! This repository is a 3 in 1 boilerplate that gives you some basic examples of creating a RESTful API in NodeJS, Express, Typescript and an optional database interaction with either MySQL or Mongo.  This repository contains 3 folders.  Here is a breif description of each, along with a link to a youtube video that will help you code it out yourself:
 
