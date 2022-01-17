@@ -21,6 +21,9 @@ Hey everyone! This repository is a 3 in 1 boilerplate that gives you some basic 
     - Stats: ![N|Solid](https://img.shields.io/youtube/views/eTRSl1As83A?style=social.svg) ![N|Solid](https://img.shields.io/youtube/likes/eTRSl1As83A?style=social.svg)
     - Similar to the Mongo project, but with a custom mysql promise adapter.
     - [https://youtu.be/eTRSl1As83A](https://youtu.be/eTRSl1As83A)
+  - ValidationByJoiExample
+    - Stats: ![N|Solid](https://img.shields.io/youtube/views/J5u9kXnPn8U?style=social.svg) ![N|Solid](https://img.shields.io/youtube/likes/J5u9kXnPn8U?style=social.svg)
+    - Protect your API and validate your data using JOI. 
 
 Periodic updates may happen to this repo to make small bug fixes or improvements.  Feel free to fork this repository and code away.
 
