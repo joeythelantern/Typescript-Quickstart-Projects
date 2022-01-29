@@ -25,6 +25,10 @@ Hey everyone! This repository is a 3 in 1 boilerplate that gives you some basic 
     - Stats: ![N|Solid](https://img.shields.io/youtube/views/J5u9kXnPn8U?style=social.svg) ![N|Solid](https://img.shields.io/youtube/likes/J5u9kXnPn8U?style=social.svg)
     - Protect your API and validate your data using JOI. 
     - [https://youtu.be/J5u9kXnPn8U](https://youtu.be/J5u9kXnPn8U)
+  - ValidationByYupExample
+    - Stats: ![N|Solid](https://img.shields.io/youtube/views/JgZ3RWcI3pk?style=social.svg) ![N|Solid](https://img.shields.io/youtube/likes/JgZ3RWcI3pk?style=social.svg)
+    - Protect your API and validate your data using JOI. 
+    - [https://youtu.be/J5u9kXnPn8U](https://youtu.be/JgZ3RWcI3pk)
 
 Periodic updates may happen to this repo to make small bug fixes or improvements.  Feel free to fork this repository and code away.
 
