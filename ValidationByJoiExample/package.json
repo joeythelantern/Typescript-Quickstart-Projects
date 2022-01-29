@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/server.ts",
   "scripts": {
-    "build": "rm -rf build && prettier --write source/ && tsc"
+    "build": "rm -rf build && prettier --write src/ && tsc"
   },
   "author": "",
   "license": "MIT",
